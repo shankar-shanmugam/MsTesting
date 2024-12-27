@@ -1,0 +1,14 @@
+F:\c#practice\Collection in c#\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+F:\c#practice\Collection in c#\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+F:\c#practice\Collection in c#\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+F:\c#practice\Collection in c#\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+F:\c#practice\Collection in c#\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+F:\c#practice\Collection in c#\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+F:\c#practice\Collection in c#\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#practice\Collection in c#\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+F:\c#practice\Collection in c#\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+F:\c#practice\Collection in c#\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+F:\c#practice\Collection in c#\Demo\obj\Debug\netcoreapp3.1\Demo.sourcelink.json
+F:\c#practice\Collection in c#\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+F:\c#practice\Collection in c#\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+F:\c#practice\Collection in c#\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache

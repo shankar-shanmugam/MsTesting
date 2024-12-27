@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\c#practice\\Collection in c#\\MyMsTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FAA7D-CE6B-4415-A5F1-02BDFB019F3F}|MyMsTest.csproj|f:\\c#practice\\collection in c#\\mymstest\\stringoptest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7FAA7D-CE6B-4415-A5F1-02BDFB019F3F}|MyMsTest.csproj|solutionrelative:stringoptest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DF2A15-8EB2-4B18-9DC6-912481E932F8}|..\\Demo\\Demo.csproj|f:\\c#practice\\collection in c#\\demo\\stringop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FAA7D-CE6B-4415-A5F1-02BDFB019F3F}|MyMsTest.csproj|f:\\c#practice\\collection in c#\\mymstest\\persontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7FAA7D-CE6B-4415-A5F1-02BDFB019F3F}|MyMsTest.csproj|solutionrelative:persontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DF2A15-8EB2-4B18-9DC6-912481E932F8}|..\\Demo\\Demo.csproj|f:\\c#practice\\collection in c#\\demo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DF2A15-8EB2-4B18-9DC6-912481E932F8}|..\\Demo\\Demo.csproj|f:\\c#practice\\collection in c#\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringOp.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\Demo\\StringOp.cs",
+              "RelativeDocumentMoniker": "..\\Demo\\StringOp.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\Demo\\StringOp.cs",
+              "RelativeToolTip": "..\\Demo\\StringOp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:52:06.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonTest.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\MyMsTest\\PersonTest.cs",
+              "RelativeDocumentMoniker": "PersonTest.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\MyMsTest\\PersonTest.cs",
+              "RelativeToolTip": "PersonTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:42:42.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\Demo\\Person.cs",
+              "RelativeDocumentMoniker": "..\\Demo\\Person.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\Demo\\Person.cs",
+              "RelativeToolTip": "..\\Demo\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:41:31.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demo\\Program.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\Demo\\Program.cs",
+              "RelativeToolTip": "..\\Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:39:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringOpTest1.cs",
+              "DocumentMoniker": "F:\\c#practice\\Collection in c#\\MyMsTest\\StringOpTest1.cs",
+              "RelativeDocumentMoniker": "StringOpTest1.cs",
+              "ToolTip": "F:\\c#practice\\Collection in c#\\MyMsTest\\StringOpTest1.cs",
+              "RelativeToolTip": "StringOpTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:34:47.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 800,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
